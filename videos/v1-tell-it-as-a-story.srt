@@ -1,0 +1,229 @@
+1
+00:00:00,230 --> 00:00:04,400
+Welcome to the first of four short
+videos on how to present your project.
+
+2
+00:00:04,400 --> 00:00:09,440
+This one is about the most important
+skill of all, telling it as a story.
+
+3
+00:00:09,440 --> 00:00:11,440
+Here’s how most demos go.
+
+4
+00:00:11,440 --> 00:00:15,040
+This is the home screen, here’s
+the menu, these are the settings.
+
+5
+00:00:15,040 --> 00:00:18,880
+Every screen is shown, but by the
+end, there’s nobody to care about,
+
+6
+00:00:18,880 --> 00:00:22,400
+and nothing to remember. Now, try this.
+
+7
+00:00:22,400 --> 00:00:25,310
+Amara arrives in a new city at midnight.
+
+8
+00:00:25,310 --> 00:00:30,520
+Her flat was empty. No pot,
+no lamp, no one to ask.
+
+9
+00:00:30,520 --> 00:00:33,360
+Already, you want to know what happens to her.
+
+10
+00:00:33,360 --> 00:00:35,780
+That’s the difference a story makes.
+
+11
+00:00:35,780 --> 00:00:38,320
+So, which one would you keep watching?
+
+12
+00:00:38,320 --> 00:00:44,300
+The walkthrough or Amara? Before you
+build any slides, write one sentence.
+
+13
+00:00:44,300 --> 00:00:47,760
+Who your project helps, what changes for them,
+
+14
+00:00:47,760 --> 00:00:50,320
+and what you want your audience to do.
+
+15
+00:00:50,320 --> 00:00:54,230
+Here’s an example for a made-up
+project called Borrow Box.
+
+16
+00:00:54,230 --> 00:00:57,050
+Notice that it’s under 25 words.
+
+17
+00:00:57,050 --> 00:01:02,400
+Then test it. Read your sentence to a
+partner and have them ask, “So what?”
+
+18
+00:01:02,400 --> 00:01:05,600
+Your first answer is usually a feature.
+
+19
+00:01:05,600 --> 00:01:06,560
+Keep going.
+
+20
+00:01:06,560 --> 00:01:11,280
+By the last round, you’re talking about
+a person and what changes for them.
+
+21
+00:01:11,280 --> 00:01:14,400
+That’s the answer your demo is really about.
+
+22
+00:01:14,400 --> 00:01:17,680
+Every good demo follows the
+same arc in two minutes.
+
+23
+00:01:17,680 --> 00:01:20,730
+Context: one person, one moment.
+
+24
+00:01:20,730 --> 00:01:23,910
+Conflict: why it’s hard for them today.
+
+25
+00:01:23,910 --> 00:01:26,730
+Climax: your product, solving it.
+
+26
+00:01:26,730 --> 00:01:29,530
+And closure: what changed, and your ask.
+
+27
+00:01:29,530 --> 00:01:31,920
+And notice where the demo sits.
+
+28
+00:01:31,920 --> 00:01:34,540
+Not everywhere, but right here.
+
+29
+00:01:34,540 --> 00:01:38,970
+As the climax. So, put
+one person at the centre.
+
+30
+00:01:38,970 --> 00:01:43,600
+A persona is fine. We build paper
+airplanes, not rocket ships.
+
+31
+00:01:43,600 --> 00:01:49,280
+Give them three things. A name, one
+specific moment, and one thing they want.
+
+32
+00:01:49,280 --> 00:01:52,310
+Keep them in every part of your story.
+
+33
+00:01:52,310 --> 00:01:56,480
+Next, find the one task. What
+does your persona come to do?
+
+34
+00:01:56,480 --> 00:01:59,200
+And where does this problem get solved?
+
+35
+00:01:59,200 --> 00:02:03,440
+That screen is your demo. Everything
+else can wait for questions.
+
+36
+00:02:03,440 --> 00:02:06,400
+When you show it, don’t narrate your clicks.
+
+37
+00:02:06,400 --> 00:02:09,390
+Not “click the plus icon, then choose a date.”
+
+38
+00:02:09,390 --> 00:02:12,080
+Instead, say what the person does.
+
+39
+00:02:12,080 --> 00:02:15,200
+“Amara borrows a pot from Joe for Saturday.”
+
+40
+00:02:15,200 --> 00:02:18,790
+And show each screen only when she needs it.
+
+41
+00:02:18,790 --> 00:02:22,240
+Keep the demo itself to about 45 seconds.
+
+42
+00:02:22,240 --> 00:02:26,320
+The rest of your two minutes
+is the story around it.
+
+43
+00:02:26,320 --> 00:02:31,820
+Then, end where you began. With
+your person, now better off.
+
+44
+00:02:31,820 --> 00:02:34,480
+Amara cooks her first meal at home.
+
+45
+00:02:34,480 --> 00:02:38,480
+Then, make your ask, clearly and specifically.
+
+46
+00:02:38,480 --> 00:02:41,680
+We’d like one neighbourhood
+to try it this month.
+
+47
+00:02:41,680 --> 00:02:46,710
+Now it’s your turn. One, write
+your “so what” sentence.
+
+48
+00:02:46,710 --> 00:02:49,530
+Two, write five beat cards.
+
+49
+00:02:49,530 --> 00:02:53,360
+Three, cut your demo down to one task.
+
+50
+00:02:53,360 --> 00:02:58,640
+Four, record two versions in different
+orders, and keep the stronger one.
+
+51
+00:02:58,640 --> 00:03:02,350
+You’ll find the worksheets
+in the handbook, Chapter 1.
+
+52
+00:03:02,350 --> 00:03:09,520
+That’s Video 1. Next time, how
+to make your story believable.
