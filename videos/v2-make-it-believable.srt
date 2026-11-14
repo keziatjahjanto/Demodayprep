@@ -1,0 +1,232 @@
+1
+00:00:00,240 --> 00:00:05,520
+Welcome to Video 2. Last time, you
+turned your project into a story.
+
+2
+00:00:05,520 --> 00:00:08,510
+Now, let’s make that story believable.
+
+3
+00:00:08,510 --> 00:00:11,440
+Every audience is quietly asking one question.
+
+4
+00:00:11,440 --> 00:00:16,160
+Will this actually work? On the left,
+a claim with nothing behind it.
+
+5
+00:00:16,160 --> 00:00:18,880
+“It works really well, trust us.”
+
+6
+00:00:18,880 --> 00:00:22,160
+On the right, the same claim but backed up.
+
+7
+00:00:22,160 --> 00:00:23,150
+You tested it.
+
+8
+00:00:23,150 --> 00:00:27,960
+You have one number with a source and
+you’re honest about what’s still planned.
+
+9
+00:00:27,960 --> 00:00:30,400
+You need two tools to answer that question.
+
+10
+00:00:30,400 --> 00:00:35,280
+The first is a testing beat. The
+second is one number that holds.
+
+11
+00:00:35,280 --> 00:00:38,960
+Together, they take about
+20 seconds of your demo.
+
+12
+00:00:38,960 --> 00:00:41,180
+The testing beat has three parts.
+
+13
+00:00:41,180 --> 00:00:44,320
+Let’s use our made-up project, Borrow Box.
+
+14
+00:00:44,320 --> 00:00:50,240
+First, what you assumed. The team assumed
+new students wanted cheap basics to buy.
+
+15
+00:00:50,240 --> 00:00:55,120
+That’s a guess. So, before you
+build more, ask three people.
+
+16
+00:00:55,120 --> 00:01:00,720
+Second, what testers told you. One said,
+“I only need a pot for a few weeks.”
+
+17
+00:01:00,720 --> 00:01:04,080
+Another said, “I don’t
+know what I’ll keep yet.”
+
+18
+00:01:04,080 --> 00:01:08,320
+A third said, “Buying
+everything costs too much.”
+
+19
+00:01:08,320 --> 00:01:10,290
+Third, what you changed.
+
+20
+00:01:10,290 --> 00:01:14,870
+Borrow Box stopped selling and started
+lending, with a date to bring things back.
+
+21
+00:01:14,870 --> 00:01:18,640
+That change is your proof that you listened.
+
+22
+00:01:18,640 --> 00:01:23,360
+So, don’t say, “We did lots of
+research and users loved it.”
+
+23
+00:01:23,360 --> 00:01:27,280
+Nobody can check that. Say
+it in three sentences.
+
+24
+00:01:27,280 --> 00:01:31,520
+We assumed this, testers told
+us that, so we changed it.
+
+25
+00:01:31,520 --> 00:01:37,200
+It takes about 15 seconds and it does more
+for your credibility than any feature.
+
+26
+00:01:37,200 --> 00:01:38,160
+Now, numbers.
+
+27
+00:01:38,160 --> 00:01:41,520
+It’s tempting to fill a slide with figures,
+
+28
+00:01:41,520 --> 00:01:46,480
+but six numbers with no sources
+give people nothing to remember.
+
+29
+00:01:46,480 --> 00:01:50,720
+Use one number and show where it comes from.
+
+30
+00:01:50,720 --> 00:01:51,810
+Why only one?
+
+31
+00:01:51,810 --> 00:01:54,080
+In a 2007 study,
+
+32
+00:01:54,080 --> 00:01:59,670
+people who read about one child gave more
+than twice as much as people who read
+
+33
+00:01:59,670 --> 00:02:04,960
+statistics. And when the story came
+with the statistics, giving went down.
+
+34
+00:02:04,960 --> 00:02:08,000
+Numbers can drown out the person.
+
+35
+00:02:08,000 --> 00:02:11,200
+So, handle your number in three steps.
+
+36
+00:02:11,200 --> 00:02:14,880
+State it in plain words,
+show the source on screen,
+
+37
+00:02:14,880 --> 00:02:18,020
+then say what it proves and what it doesn’t.
+
+38
+00:02:18,020 --> 00:02:20,830
+“It doesn’t prove our app fixes that.
+
+39
+00:02:20,830 --> 00:02:25,180
+That’s what we’re testing.”
+And put the person first.
+
+40
+00:02:25,180 --> 00:02:28,000
+Introduce Amara, then give the number.
+
+41
+00:02:28,000 --> 00:02:32,640
+That way, the number explains her
+story instead of floating on its own.
+
+42
+00:02:32,640 --> 00:02:35,040
+Finally, be honest about where you are.
+
+43
+00:02:35,040 --> 00:02:40,560
+Skip the big claims.
+Instead, label things early.
+
+44
+00:02:40,560 --> 00:02:45,440
+Amara is an example persona.
+Borrowing works today.
+
+45
+00:02:45,440 --> 00:02:50,160
+Return reminders come next. And
+the listings are demo data.
+
+46
+00:02:50,160 --> 00:02:55,520
+A paper airplane is credible when it
+doesn’t pretend to be a rocket ship.
+
+47
+00:02:55,520 --> 00:03:00,400
+Your turn. One, show your
+prototype to three people.
+
+48
+00:03:00,400 --> 00:03:03,920
+Two, write your testing
+beat in three sentences.
+
+49
+00:03:03,920 --> 00:03:07,120
+Three, choose one number and find its source.
+
+50
+00:03:07,120 --> 00:03:13,120
+And four, finish the line.
+“This shows ___, but not ___.”
+
+51
+00:03:13,120 --> 00:03:19,120
+Worksheet 3 in the handbook
+has space for each of these.
